@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 14bf03dd1d01db945847ef1950149f33
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gatheredWheat: {fileID: 2379574138780031913, guid: baaf99558c25fdd47949dca1e22a5c63,
+      type: 3}
+  - agent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

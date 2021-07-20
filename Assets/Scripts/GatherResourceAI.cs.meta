@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f613a152b6e9292409e8d9fe8bb5b062
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flag: {instanceID: 0}
+  - resourceZone: {instanceID: 0}
+  - gatheredObject: {instanceID: 0}
+  - portableObject: {instanceID: 0}
+  - woodPile: {instanceID: 0}
+  - agent: {instanceID: 0}
+  - objectInfo: {instanceID: 0}
+  - manager: {instanceID: 0}
+  - clayMaterial: {fileID: 2100000, guid: 485221040409f564fb37b11faf2985d8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cc46ad9186e7264b822f73cfefb0806
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - typeResource: {instanceID: 0}
+  - Stone: {fileID: 118734486031217210, guid: d50bafc4d747a53498412b73c9c23d6d, type: 3}
+  - Clay: {fileID: 6456321985756289150, guid: dac9eb0fca27e4649a696317418fece7, type: 3}
+  - Wood: {fileID: 7706115331896597185, guid: 8a447e3b50f50cf4a93ded79d12e7c7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
